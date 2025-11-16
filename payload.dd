@@ -1,0 +1,22 @@
+REM rickroll
+REM Thx to @Explorewithcode on Github for the links to the sound and image
+REM My github: github.com/toxictomb
+CTRL t
+DELAY 100
+CTRL e
+DELAY 50
+BACKSPACE
+DELAY 50
+STRING https://tinyurl.com/5n8x63rd
+DELAY 50
+ENTER
+DELAY 2000
+SPACE
+CTRL t
+DELAY 50
+CTRL e
+DELAY 50
+BACKSPACE
+DELAY 50
+STRING https://tinyurl.com/yshbu978
+ENTER
