@@ -5,7 +5,7 @@ Download the text file (payload.dd)
 
 Go to payloadstudio.hak5.org and upload the file to the site
 
-Compile
+Click compile
 
 Copy the inject.bin file to the rubber ducky
 
