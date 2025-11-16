@@ -1,6 +1,11 @@
 REM rickroll
 REM Thx to @Explorewithcode on Github for the links to the sound and image
 REM My github: github.com/toxictomb
+GUI r
+DELAY 50
+STRING chrome
+ENTER
+DELAY 100
 CTRL t
 DELAY 100
 CTRL e
